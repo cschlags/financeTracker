@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+####
+Next Steps
++ create finance panel ui
++ create transaction ui
++ create DB
++ populate DB
++ connect DB to populate transaction
+
 ## Available Scripts
 
 In the project directory, you can run:
