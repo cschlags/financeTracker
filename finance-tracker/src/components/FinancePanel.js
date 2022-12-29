@@ -7,7 +7,6 @@ export default class FinancePanel extends React.Component {
     render() {
         return (
             <div className="component-financial">
-                <p>hello</p>
                 <Transaction/>
             </div>
         );
